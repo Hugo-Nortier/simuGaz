@@ -1,0 +1,1 @@
+projet exécutable directement via le HTML en entrant une valeur dans l'input
